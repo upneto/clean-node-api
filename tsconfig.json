@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "module": "commonjs",
+        "target": "es2019", // Versão do ecmascript (node.green)
+        "esModuleInterop": true, // recompila sintaxe de versões antidas do node para o padrão atual
+        "allowJs": true // Interpreta arquivos de configuração que estiverem em javascript
+    }
+}
